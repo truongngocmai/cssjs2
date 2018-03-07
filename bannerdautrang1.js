@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/gYXN15' target='_blank'><img src='http://phulonggroup.com.vn:7787/mediaroot/media/userfiles/useruploads/861/image/four%20square%201.jpg' width='500px'/><br/> Chính thức mở bán dự án Four Square Q4</a>. Liên hệ PKD chủ đầu tư. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/gYXN15' target='_blank'><img src='http://phulonggroup.com.vn:7787/mediaroot/media/userfiles/useruploads/861/image/four%20square%201.jpg' width='500px'/><br/> Dự án Four Square Quận 4</a>. Liên hệ PKD chủ đầu tư. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
